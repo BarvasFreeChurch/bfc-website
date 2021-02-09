@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          BARVAS FREE CHURCH website is being developed by Andrew Macleod
+          BARVAS FREE CHURCH website is being developed by Andrew Macleod!
         </p>
         <a
           className="App-link"
